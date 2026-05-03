@@ -1,1 +1,3 @@
 challenge.mat
+.venv/
+__pycache__/
